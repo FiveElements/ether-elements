@@ -1,4 +1,4 @@
-# ether-elements
+# \<ether-elements>
 
 ## Spirit
 
@@ -11,12 +11,12 @@ L'Akasha ou Ether :
 Il s'agit du 5 eme élément, l'Un, le Tout. Il reuni en lui les 4 autres éléments. Il est le symbole de l'infini, de l'Univers.
 Cet élément n'a pas de forme, il est le "non être" : il n'a aucune substance particulière mais se manifeste par l'énergie tenant en équilibre grâce aux 4 éléments.
 
-# Point Cardinal : Nord, Sud, Est, Ouest, dedans, dehors, en haut et en bas.
-# Rituel : religieux, de lumière, trouver sa voie, connaissances spirituelles...
-# Saison : toutes et aucune en particulier
-# Sens : Ouïe
-# Animal : le Sphinx, tous et aucun à la fois
-# Symbole : l'infini, le cosmos, la creation.
+* Point Cardinal : Nord, Sud, Est, Ouest, dedans, dehors, en haut et en bas.
+* Rituel : religieux, de lumière, trouver sa voie, connaissances spirituelles...
+* Saison : toutes et aucune en particulier
+* Sens : Ouïe
+* Animal : le Sphinx, tous et aucun à la fois
+* Symbole : l'infini, le cosmos, la creation.
 
 ###  sous-éléments
 Il existe deux sous-éléments importants qui sont l'Ombre et la Lumière. Ces deux sous-élément représente la bipolarité de chacun des éléments précités. En effet l'Eau, le Feu, la Terre et l'Air peuvent avoir des effet posisitif comme des effets négatifs. L'Ombre et la Lumière sont donc la représentation de ce dualisme.
